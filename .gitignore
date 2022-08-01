@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # User
+.DS_Store
 HAPT Data Set/
 doc/
 vocabulary/
